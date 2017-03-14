@@ -1,0 +1,15 @@
+{
+  "Data":
+          [
+  {
+   "_comment":"It will contain the platform details where this is working",
+   "os":"windows",
+   "python_ver":"2.7",
+   "role":"endpoint",
+   "board_type":"udo",
+   "messaging":"Na"
+  }
+          ]}
+
+
+
